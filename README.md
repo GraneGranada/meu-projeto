@@ -11,7 +11,7 @@ Repositório para armazenar resumos e codigos sobre git e github [Digital Innova
 
 | Aulas  | Resumos |
 | ------------- | ------------- |
-| Exemplo 1  | [Resumos]()  |
+| Exemplo 1  | [Resumo]()  |
 | Content Cell  | Content Cell  |
 
 ---
